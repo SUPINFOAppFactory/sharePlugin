@@ -1,0 +1,27 @@
+{
+   "author":"SUPINFO AppFactory",
+   "pluginName":"Share App",
+   "pluginDescription":"Leverage your users' networks by encouraging them to share your app via Facebook, Twitter, SMS, and email.",
+   "supportEmail":"supinfoappfactory@supinfo.com",
+   "supportSite":"http://support.appdocumentation.com/knowledge-base/share-app-plugin-tutorial/",
+   "offlineModeEnabled": true,
+   "control":{
+      "content":{
+         "enabled":true
+      },
+      "design":{
+         "enabled":false
+      },
+      "settings":{
+         "enabled":false
+      }
+   },
+   "widget":{
+
+   },
+   "features":[{"name" : "sharing"}
+   ],
+   "languages":[
+      "en"
+   ]
+}
