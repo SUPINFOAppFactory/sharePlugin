@@ -1,7 +1,7 @@
 {
   "name": "sharePlugin",
   "version": "1.0.0",
-  "description": "SUPINFO AppFactory plugin to leverage your users' networks by encouraging them to share your app via Facebook, Twitter, SMS, and email.",
+  "description": "Plugin to leverage your users' networks by encouraging them to share your app via Facebook, Twitter, SMS, and email.",
   "main": "index.js",
   "scripts": {
     "postinstall": "./node_modules/.bin/bower install",
